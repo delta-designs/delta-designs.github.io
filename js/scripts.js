@@ -1,5 +1,4 @@
-
-
+$(document).ready(function () {
 	//user agent
 	if (navigator.userAgent.search("Chrome") >= 0) {
 		$("body").addClass("chrome-browser");
