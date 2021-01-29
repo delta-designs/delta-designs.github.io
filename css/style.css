@@ -15,6 +15,16 @@
 12. Blog
 11. Media
 
+/*=============================Color=======================
+============================================================*/
+::-moz-selection { /* Code for Firefox */
+  color;
+  background:#3f37c9;
+}
+
+::selection {
+  background: #3f37c9;
+}
 -------------------------------------------------------------------*/
 .Regular {
   font-family: 'Roboto', sans-serif;
